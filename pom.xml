@@ -24,8 +24,6 @@
             </plugin>
         </plugins>
     </build>
-</project>
-
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
